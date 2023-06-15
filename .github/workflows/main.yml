@@ -20,4 +20,4 @@ jobs:
         surge token surgekey # Reemplazar <SURGE_API_KEY> con la API Key de Surge de cada estudiante
 
         # Desplegar en Surge.sh
-        surge --project ./ --domain <SURGE_SUBDOMAIN>.surge.sh # Reemplazar <SURGE_SUBDOMAIN> con un subdominio único para cada estudiante
+        surge --project ./ --domain 202010202.surge.sh # Reemplazar <SURGE_SUBDOMAIN> con un subdominio único para cada estudiante
